@@ -34,3 +34,4 @@ def msg(event=None, context=None):
             )
 
         print(msg.sid)
+msg()
